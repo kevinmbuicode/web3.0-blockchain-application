@@ -1,4 +1,5 @@
 import React from "react";
+import { Navbar, Welcome, Footer, Services, Transactions , Loader} from './components';
 
 function App() {
   
